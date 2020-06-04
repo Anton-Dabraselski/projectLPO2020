@@ -1,0 +1,2 @@
+// Syntax error: on line 2: Expecting EOF, found NUM('0')
+print seasonOf 0

@@ -1,0 +1,2 @@
+// Syntax error: on line 2: Expecting TO, found ASSIGN('=')
+for x=3{print x}

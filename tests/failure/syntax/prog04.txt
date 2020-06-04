@@ -1,0 +1,2 @@
+// Syntax error: on line 2: Expecting EOF, found START_PAIR('<<')
+print <<1,2>><<<2,3>>

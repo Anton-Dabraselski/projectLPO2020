@@ -1,0 +1,6 @@
+var x=Winter;
+for x to 1{ // Static error: Found SEASON, expected INT
+  print true
+}  
+
+

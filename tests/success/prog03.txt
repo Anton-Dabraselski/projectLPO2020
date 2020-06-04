@@ -1,0 +1,9 @@
+var i=0;
+var s=Winter;
+for i to 3{
+  print seasonof i==s; // stampa true 4 volte
+  if(i<3){
+    s=seasonof (i+1) 
+  }  
+} 
+

@@ -1,0 +1,5 @@
+var x=0;
+for x to Fall{ // Dynamic error: Expecting an integer
+  print true
+}  
+

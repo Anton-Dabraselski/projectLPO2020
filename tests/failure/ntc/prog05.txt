@@ -1,0 +1,2 @@
+print true<1 // Dynamic error: Expecting a boolean
+

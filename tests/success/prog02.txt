@@ -1,0 +1,7 @@
+var x=-1;
+var y=-1;
+for x to -2*x{
+  print x==y; // stampa true due volte
+  y=y+1
+}; 
+print x==1 // stampa true

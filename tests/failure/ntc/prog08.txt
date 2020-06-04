@@ -1,0 +1,1 @@
+print seasonof true // Dynamic error: Expecting an integer

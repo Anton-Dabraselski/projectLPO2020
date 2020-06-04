@@ -1,0 +1,4 @@
+print #Winter==0; // stampa true
+print #Spring==1; // stampa true
+print #Summer==2; // stampa true
+print #Fall==3 // stampa true

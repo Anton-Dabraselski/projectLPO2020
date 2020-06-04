@@ -1,0 +1,5 @@
+var w=Winter;
+print <<<<0,w>>,false>> < <<<<1,Spring>>,true>>; // stampa true
+print ! (<<<<0,w>>,false>> < <<<<0,Spring>>,true>>); // stampa true
+print ! (<<<<0,w>>,false>> < <<<<1,w>>,true>>); // stampa true
+print ! (<<<<0,w>>,false>> < <<<<1,Spring>>,false>>) // stampa true

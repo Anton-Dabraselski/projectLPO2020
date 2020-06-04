@@ -1,0 +1,6 @@
+var x=0;
+for x to 3{ 
+  var x=seasonof x;
+  print #x<4
+};  
+print #x<4 // Static error: Found INT, expected SEASON

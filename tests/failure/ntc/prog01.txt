@@ -1,0 +1,4 @@
+for x to 1{ // Dynamic error: project.environments.EnvironmentException: Undeclared variable x
+  print true
+}
+

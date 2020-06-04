@@ -1,0 +1,2 @@
+// Syntax error: on line 2: Expecting IDENT, found VAR('var')
+for var x=1 to 3{print x}

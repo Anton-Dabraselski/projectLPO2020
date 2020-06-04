@@ -1,0 +1,7 @@
+var x=0;
+var y=0;
+for x to 9{
+  print x==y; // stampa true 10 volte
+  y=y+1
+}; 
+print x==10 // stampa true

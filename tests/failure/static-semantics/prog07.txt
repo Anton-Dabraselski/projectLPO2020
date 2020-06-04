@@ -1,0 +1,1 @@
+print # true // Static error: Found BOOL, expected SEASON
